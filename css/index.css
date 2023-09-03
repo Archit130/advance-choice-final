@@ -8,10 +8,10 @@
     font-family: 'Albert Sans', sans-serif;
 }
 body{
-    background-image: url(/images/red_wavy_with_halftone_background.jpg);
+    background-image: url(/images/tp244-bg1-02.jpg);
     background-position: center;
     background-attachment: fixed;
-    /* background-size: cover; */
+    background-size: cover;
     background-repeat: no-repeat; 
     
 }
