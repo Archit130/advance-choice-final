@@ -172,4 +172,26 @@ ion-icon{
       transform: scale(1.03);
       opacity: 0;
     } */
-   
+    #mybutton {
+      position: fixed;
+      bottom: 400px;
+      right: 0px;
+      z-index: 10;
+    }
+    .feedback {
+      background-color :  #04cc25;
+      color: whitesmoke;
+      padding: 15px 15px 15px;
+      font-size: 25px;
+      border-radius: 5px;
+      text-align: center;
+      justify-content: center;
+      border: none;
+      text-decoration: none;
+      
+    }
+    .feedback:hover{
+      font-family: "Poppins", sans-serif;
+      background-color:#04aa04;
+      color: whitesmoke;
+  }
